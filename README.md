@@ -11,11 +11,11 @@
 8. Then, clone this repository so that the base directory folder is at the same level as the previously created ros workspace folder (ros2_rolling).
 9. Then go to the source folder of the new ros workspace (ros_ws) and run: colcon build --packages-select cv_basics
 ## Running the Program
-This code is a ROS 2 publisher and subscriber.
-To run the code open a terminal, navigate to the ros_ws directory and set up the environment using: . ~/ros2_rolling/install/local_setup.bash
-Then run the publisher by typing: ros2 run cv_basics img_publisher
-Create another new terminal and do the same setup as previously
-Then run the subscriber by typing: ros2 run cv_basics img_subscriber
+1. This code is a ROS 2 publisher and subscriber.
+2. To run the code open a terminal, navigate to the ros_ws directory and set up the environment using: . ~/ros2_rolling/install/local_setup.bash
+3. Then run the publisher by typing: ros2 run cv_basics img_publisher
+4. Create another new terminal and do the same setup as previously
+5. Then run the subscriber by typing: ros2 run cv_basics img_subscriber
 ## Setting up webcam in virtual box
 1. First make sure virtual box is updated to the latest version.
 2. Then install the virtual box extension pack based on your build.
