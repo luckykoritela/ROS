@@ -1,0 +1,22 @@
+[4.049s] Invoking command in '/home/luckykoritela/ros_ws/src/cv_basics': PYTHONPATH=/home/luckykoritela/ros_ws/install/cv_basics/lib/python3.8/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base ../../build/cv_basics build --build-base /home/luckykoritela/ros_ws/build/cv_basics/build install --prefix /home/luckykoritela/ros_ws/install/cv_basics --record /home/luckykoritela/ros_ws/build/cv_basics/install.log --single-version-externally-managed
+[5.799s] running egg_info
+[5.800s] writing ../../build/cv_basics/cv_basics.egg-info/PKG-INFO
+[5.801s] writing dependency_links to ../../build/cv_basics/cv_basics.egg-info/dependency_links.txt
+[5.802s] writing entry points to ../../build/cv_basics/cv_basics.egg-info/entry_points.txt
+[5.803s] writing requirements to ../../build/cv_basics/cv_basics.egg-info/requires.txt
+[5.804s] writing top-level names to ../../build/cv_basics/cv_basics.egg-info/top_level.txt
+[5.894s] reading manifest file '../../build/cv_basics/cv_basics.egg-info/SOURCES.txt'
+[5.896s] writing manifest file '../../build/cv_basics/cv_basics.egg-info/SOURCES.txt'
+[5.896s] running build
+[5.896s] running build_py
+[5.897s] running install
+[5.902s] running install_lib
+[5.909s] running install_data
+[5.911s] running install_egg_info
+[5.918s] removing '/home/luckykoritela/ros_ws/install/cv_basics/lib/python3.8/site-packages/cv_basics-0.0.0-py3.8.egg-info' (and everything under it)
+[5.919s] Copying ../../build/cv_basics/cv_basics.egg-info to /home/luckykoritela/ros_ws/install/cv_basics/lib/python3.8/site-packages/cv_basics-0.0.0-py3.8.egg-info
+[5.921s] running install_scripts
+[5.984s] Installing listener script to /home/luckykoritela/ros_ws/install/cv_basics/lib/cv_basics
+[5.984s] Installing talker script to /home/luckykoritela/ros_ws/install/cv_basics/lib/cv_basics
+[5.987s] writing list of installed files to '/home/luckykoritela/ros_ws/build/cv_basics/install.log'
+[6.030s] Invoked command in '/home/luckykoritela/ros_ws/src/cv_basics' returned '0': PYTHONPATH=/home/luckykoritela/ros_ws/install/cv_basics/lib/python3.8/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base ../../build/cv_basics build --build-base /home/luckykoritela/ros_ws/build/cv_basics/build install --prefix /home/luckykoritela/ros_ws/install/cv_basics --record /home/luckykoritela/ros_ws/build/cv_basics/install.log --single-version-externally-managed

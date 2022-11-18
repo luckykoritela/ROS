@@ -1,0 +1,29 @@
+[4.230s] Invoking command in '/home/luckykoritela/ros_ws/src/cv_basics': PYTHONPATH=/home/luckykoritela/ros_ws/install/cv_basics/lib/python3.8/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base ../../build/cv_basics build --build-base /home/luckykoritela/ros_ws/build/cv_basics/build install --prefix /home/luckykoritela/ros_ws/install/cv_basics --record /home/luckykoritela/ros_ws/build/cv_basics/install.log --single-version-externally-managed
+[6.032s] running egg_info
+[6.033s] writing ../../build/cv_basics/cv_basics.egg-info/PKG-INFO
+[6.034s] writing dependency_links to ../../build/cv_basics/cv_basics.egg-info/dependency_links.txt
+[6.035s] writing entry points to ../../build/cv_basics/cv_basics.egg-info/entry_points.txt
+[6.037s] writing requirements to ../../build/cv_basics/cv_basics.egg-info/requires.txt
+[6.038s] writing top-level names to ../../build/cv_basics/cv_basics.egg-info/top_level.txt
+[6.132s] reading manifest file '../../build/cv_basics/cv_basics.egg-info/SOURCES.txt'
+[6.134s] writing manifest file '../../build/cv_basics/cv_basics.egg-info/SOURCES.txt'
+[6.135s] running build
+[6.136s] running build_py
+[6.136s] copying cv_basics/webcam_pub.py -> /home/luckykoritela/ros_ws/build/cv_basics/build/lib/cv_basics
+[6.136s] copying cv_basics/webcam_sub.py -> /home/luckykoritela/ros_ws/build/cv_basics/build/lib/cv_basics
+[6.137s] running install
+[6.143s] running install_lib
+[6.145s] copying /home/luckykoritela/ros_ws/build/cv_basics/build/lib/cv_basics/webcam_pub.py -> /home/luckykoritela/ros_ws/install/cv_basics/lib/python3.8/site-packages/cv_basics
+[6.145s] copying /home/luckykoritela/ros_ws/build/cv_basics/build/lib/cv_basics/webcam_sub.py -> /home/luckykoritela/ros_ws/install/cv_basics/lib/python3.8/site-packages/cv_basics
+[6.150s] byte-compiling /home/luckykoritela/ros_ws/install/cv_basics/lib/python3.8/site-packages/cv_basics/webcam_pub.py to webcam_pub.cpython-38.pyc
+[6.154s] byte-compiling /home/luckykoritela/ros_ws/install/cv_basics/lib/python3.8/site-packages/cv_basics/webcam_sub.py to webcam_sub.cpython-38.pyc
+[6.156s] running install_data
+[6.158s] copying package.xml -> /home/luckykoritela/ros_ws/install/cv_basics/share/cv_basics
+[6.158s] running install_egg_info
+[6.167s] removing '/home/luckykoritela/ros_ws/install/cv_basics/lib/python3.8/site-packages/cv_basics-0.0.0-py3.8.egg-info' (and everything under it)
+[6.167s] Copying ../../build/cv_basics/cv_basics.egg-info to /home/luckykoritela/ros_ws/install/cv_basics/lib/python3.8/site-packages/cv_basics-0.0.0-py3.8.egg-info
+[6.169s] running install_scripts
+[6.233s] Installing img_publisher script to /home/luckykoritela/ros_ws/install/cv_basics/lib/cv_basics
+[6.233s] Installing img_subscriber script to /home/luckykoritela/ros_ws/install/cv_basics/lib/cv_basics
+[6.233s] writing list of installed files to '/home/luckykoritela/ros_ws/build/cv_basics/install.log'
+[6.282s] Invoked command in '/home/luckykoritela/ros_ws/src/cv_basics' returned '0': PYTHONPATH=/home/luckykoritela/ros_ws/install/cv_basics/lib/python3.8/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base ../../build/cv_basics build --build-base /home/luckykoritela/ros_ws/build/cv_basics/build install --prefix /home/luckykoritela/ros_ws/install/cv_basics --record /home/luckykoritela/ros_ws/build/cv_basics/install.log --single-version-externally-managed

@@ -1,0 +1,48 @@
+-- The C compiler identification is Clang 10.0.0
+-- The CXX compiler identification is Clang 10.0.0
+-- Check for working C compiler: /usr/bin/clang
+-- Check for working C compiler: /usr/bin/clang -- works
+-- Detecting C compiler ABI info
+-- Detecting C compiler ABI info - done
+-- Detecting C compile features
+-- Detecting C compile features - done
+-- Check for working CXX compiler: /usr/bin/clang++
+-- Check for working CXX compiler: /usr/bin/clang++ -- works
+-- Detecting CXX compiler ABI info
+-- Detecting CXX compiler ABI info - done
+-- Detecting CXX compile features
+-- Detecting CXX compile features - done
+-- Found ament_cmake: 1.5.2 (/home/luckykoritela/ros2_rolling/install/ament_cmake/share/ament_cmake/cmake)
+-- Found Python3: /usr/bin/python3.8 (found version "3.8.10") found components: Interpreter 
+-- Found ament_lint_auto: 0.13.2 (/home/luckykoritela/ros2_rolling/install/ament_lint_auto/share/ament_lint_auto/cmake)
+-- Added test 'cppcheck' to perform static code analysis on C / C++ code
+-- Configured cppcheck include dirs: $<BUILD_INTERFACE:/home/luckykoritela/ros_ws/src/cv_basics/include>
+-- Configured cppcheck exclude dirs and/or files: 
+-- Added test 'lint_cmake' to check CMake code style
+-- Added test 'uncrustify' to check C / C++ code style
+-- Configured uncrustify additional arguments: 
+-- Added test 'xmllint' to check XML markup files
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /home/luckykoritela/ros_ws/build/cv_basics
+[35m[1mScanning dependencies of target my_node[0m
+[ 50%] [32mBuilding CXX object CMakeFiles/my_node.dir/src/my_node.cpp.o[0m
+[100%] [32m[1mLinking CXX executable my_node[0m
+[100%] Built target my_node
+-- Install configuration: ""
+-- Installing: /home/luckykoritela/ros_ws/install/cv_basics/lib/cv_basics/my_node
+-- Installing: /home/luckykoritela/ros_ws/install/cv_basics/share/ament_index/resource_index/package_run_dependencies/cv_basics
+-- Installing: /home/luckykoritela/ros_ws/install/cv_basics/share/ament_index/resource_index/parent_prefix_path/cv_basics
+-- Installing: /home/luckykoritela/ros_ws/install/cv_basics/share/cv_basics/environment/ament_prefix_path.sh
+-- Installing: /home/luckykoritela/ros_ws/install/cv_basics/share/cv_basics/environment/ament_prefix_path.dsv
+-- Installing: /home/luckykoritela/ros_ws/install/cv_basics/share/cv_basics/environment/path.sh
+-- Installing: /home/luckykoritela/ros_ws/install/cv_basics/share/cv_basics/environment/path.dsv
+-- Installing: /home/luckykoritela/ros_ws/install/cv_basics/share/cv_basics/local_setup.bash
+-- Installing: /home/luckykoritela/ros_ws/install/cv_basics/share/cv_basics/local_setup.sh
+-- Installing: /home/luckykoritela/ros_ws/install/cv_basics/share/cv_basics/local_setup.zsh
+-- Installing: /home/luckykoritela/ros_ws/install/cv_basics/share/cv_basics/local_setup.dsv
+-- Installing: /home/luckykoritela/ros_ws/install/cv_basics/share/cv_basics/package.dsv
+-- Installing: /home/luckykoritela/ros_ws/install/cv_basics/share/ament_index/resource_index/packages/cv_basics
+-- Installing: /home/luckykoritela/ros_ws/install/cv_basics/share/cv_basics/cmake/cv_basicsConfig.cmake
+-- Installing: /home/luckykoritela/ros_ws/install/cv_basics/share/cv_basics/cmake/cv_basicsConfig-version.cmake
+-- Installing: /home/luckykoritela/ros_ws/install/cv_basics/share/cv_basics/package.xml

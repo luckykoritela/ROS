@@ -1,0 +1,10 @@
+  File "/home/luckykoritela/ros_ws/install/cv_basics/lib/python3.8/site-packages/cv_basics/webcam_pub.py", line 19
+    super().__init__('minimal_publisher)
+                                       ^
+SyntaxError: EOL while scanning string literal
+
+  File "/home/luckykoritela/ros_ws/install/cv_basics/lib/python3.8/site-packages/cv_basics/webcam_sub.py", line 19
+    super().__init__('minimal_publisher)
+                                       ^
+SyntaxError: EOL while scanning string literal
+

@@ -1,0 +1,27 @@
+running egg_info
+writing ../../build/cv_basics/cv_basics.egg-info/PKG-INFO
+writing dependency_links to ../../build/cv_basics/cv_basics.egg-info/dependency_links.txt
+writing entry points to ../../build/cv_basics/cv_basics.egg-info/entry_points.txt
+writing requirements to ../../build/cv_basics/cv_basics.egg-info/requires.txt
+writing top-level names to ../../build/cv_basics/cv_basics.egg-info/top_level.txt
+reading manifest file '../../build/cv_basics/cv_basics.egg-info/SOURCES.txt'
+writing manifest file '../../build/cv_basics/cv_basics.egg-info/SOURCES.txt'
+running build
+running build_py
+copying cv_basics/webcam_pub.py -> /home/luckykoritela/ros_ws/build/cv_basics/build/lib/cv_basics
+copying cv_basics/webcam_sub.py -> /home/luckykoritela/ros_ws/build/cv_basics/build/lib/cv_basics
+running install
+running install_lib
+copying /home/luckykoritela/ros_ws/build/cv_basics/build/lib/cv_basics/webcam_pub.py -> /home/luckykoritela/ros_ws/install/cv_basics/lib/python3.8/site-packages/cv_basics
+copying /home/luckykoritela/ros_ws/build/cv_basics/build/lib/cv_basics/webcam_sub.py -> /home/luckykoritela/ros_ws/install/cv_basics/lib/python3.8/site-packages/cv_basics
+byte-compiling /home/luckykoritela/ros_ws/install/cv_basics/lib/python3.8/site-packages/cv_basics/webcam_pub.py to webcam_pub.cpython-38.pyc
+byte-compiling /home/luckykoritela/ros_ws/install/cv_basics/lib/python3.8/site-packages/cv_basics/webcam_sub.py to webcam_sub.cpython-38.pyc
+running install_data
+copying package.xml -> /home/luckykoritela/ros_ws/install/cv_basics/share/cv_basics
+running install_egg_info
+removing '/home/luckykoritela/ros_ws/install/cv_basics/lib/python3.8/site-packages/cv_basics-0.0.0-py3.8.egg-info' (and everything under it)
+Copying ../../build/cv_basics/cv_basics.egg-info to /home/luckykoritela/ros_ws/install/cv_basics/lib/python3.8/site-packages/cv_basics-0.0.0-py3.8.egg-info
+running install_scripts
+Installing listener script to /home/luckykoritela/ros_ws/install/cv_basics/lib/cv_basics
+Installing talker script to /home/luckykoritela/ros_ws/install/cv_basics/lib/cv_basics
+writing list of installed files to '/home/luckykoritela/ros_ws/build/cv_basics/install.log'
