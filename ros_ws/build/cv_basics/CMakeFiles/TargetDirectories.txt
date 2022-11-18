@@ -1,0 +1,10 @@
+/home/luckykoritela/ros_ws/build/cv_basics/CMakeFiles/install/strip.dir
+/home/luckykoritela/ros_ws/build/cv_basics/CMakeFiles/install/local.dir
+/home/luckykoritela/ros_ws/build/cv_basics/CMakeFiles/install.dir
+/home/luckykoritela/ros_ws/build/cv_basics/CMakeFiles/list_install_components.dir
+/home/luckykoritela/ros_ws/build/cv_basics/CMakeFiles/rebuild_cache.dir
+/home/luckykoritela/ros_ws/build/cv_basics/CMakeFiles/edit_cache.dir
+/home/luckykoritela/ros_ws/build/cv_basics/CMakeFiles/test.dir
+/home/luckykoritela/ros_ws/build/cv_basics/CMakeFiles/my_node.dir
+/home/luckykoritela/ros_ws/build/cv_basics/CMakeFiles/cv_basics_uninstall.dir
+/home/luckykoritela/ros_ws/build/cv_basics/CMakeFiles/uninstall.dir
