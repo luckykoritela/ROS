@@ -3,6 +3,7 @@ from rclpy.node import Node
 from sensor_msgs.msg import Image
 from cv_bridge import CvBridge
 import cv2
+import time
  
 class ImagePublisher(Node):
   def __init__(self):
@@ -10,7 +11,7 @@ class ImagePublisher(Node):
       
     self.publisher_ = self.create_publisher(Image, 'video_frames', 10)
 
-    timer_period = 0.1
+    timer_period = 0.01
       
     self.timer = self.create_timer(timer_period, self.timer_callback)
 
@@ -31,7 +32,12 @@ def main(args=None):
   
   image_publisher = ImagePublisher()
   
-  rclpy.spin(image_publisher)
+  start = time.perf_counter()
+  for i in range(20):
+    rclpy.spin_once(image_publisher)
+  end = time.perf_counter()
+  
+  print("Total Time: " + str(start-end))
 
   image_publisher.destroy_node()
 
