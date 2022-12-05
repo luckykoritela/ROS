@@ -58,9 +58,9 @@ class ImageSubscriber(Node):
     print(f"{len(faces)} faces detected in the image.")
     
     # Display image
-    for (x,y,w,h) in faces:
-    	cv2.rectangle(current_frame, (x,y), (x+w,y+h), (0,255,0), 2)
-    cv2.imshow("camera", current_frame)
+    #for (x,y,w,h) in faces:
+    #	cv2.rectangle(current_frame, (x,y), (x+w,y+h), (0,255,0), 2)
+    #cv2.imshow("camera", current_frame)
     
     cv2.waitKey(1)
     
