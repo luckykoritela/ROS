@@ -16,6 +16,8 @@
 3. Then run the publisher by typing: ros2 run cv_basics img_publisher
 4. Create another new terminal and do the same setup as previously
 5. Then run the subscriber by typing: ros2 run cv_basics img_subscriber
+
+1. You can also run the program by navigating to the launch directory in the ROS workspace and running ros2 launch my_launch.py config_file:=params.yaml
 ## Setting up webcam in virtual box
 1. First make sure virtual box is updated to the latest version.
 2. Then install the virtual box extension pack based on your build.
