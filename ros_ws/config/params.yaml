@@ -1,0 +1,11 @@
+pub1:
+	ros_parameters:
+		max_memory: 100
+
+pub2:
+	ros_parameters:
+		max_memory: 100
+		
+pub3:
+	ros_parameters:
+		max_memory: 100
