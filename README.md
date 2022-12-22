@@ -13,9 +13,9 @@
 ## Running the Program
 1. This code is a ROS 2 publisher and subscriber.
 2. To run the code open a terminal, navigate to the ros_ws directory and set up the environment using: . ~/ros2_rolling/install/local_setup.bash and also source install/setup.bash
-3. Then run the publisher by typing: ros2 run cv_basics img_publisher
+3. Then run the publisher by typing: ros2 run cv_basics image_publisher
 4. Create another new terminal and do the same setup as previously
-5. Then run the subscriber by typing: ros2 run cv_basics img_subscriber
+5. Then run the subscriber by typing: ros2 run cv_basics image_subscriber
 
 1. You can also run the program by navigating to the launch directory in the ROS workspace and running ros2 launch my_launch.py config_file:=params.yaml
 ## Setting up webcam in virtual box
