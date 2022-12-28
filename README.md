@@ -46,7 +46,7 @@
 27. git clone https://github.com/ros-perception/vision_opencv.git
 27. cd ..
 29. colcon build --symlink-install
-30. You should no have everything you need to run the program.
+30. You should now have everything you need to run the program.
 
 ## Running the Program
 1. There are two ways to run the program. You can either run the publisher and subscriber seperately in two different terminals or run the launch file which runs both at once.
