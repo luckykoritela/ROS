@@ -34,6 +34,9 @@
 19. sudo rosdep init
 20. rosdep update
 21. rosdep install --from-paths src --ignore-src -y --skip-keys "fastcdr rti-connext-dds-6.0.1 urdfdom_headers"
+22. sudo apt install python3-numpy
+23. sudo apt install libboost-python-dev
+24. 
 
 ## Installation
 1. First install Ubuntu 20.04 on virtual box and start the virtual machine (if you do not already have linux)
