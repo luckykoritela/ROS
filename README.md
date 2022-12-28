@@ -36,7 +36,10 @@
 21. rosdep install --from-paths src --ignore-src -y --skip-keys "fastcdr rti-connext-dds-6.0.1 urdfdom_headers"
 22. sudo apt install python3-numpy
 23. sudo apt install libboost-python-dev
-24. 
+24. mkdir -p ~/ros_ws/src
+25. cd ~/ros_ws/src
+26. sudo apt install python3-opencv
+27. 
 
 ## Installation
 1. First install Ubuntu 20.04 on virtual box and start the virtual machine (if you do not already have linux)
